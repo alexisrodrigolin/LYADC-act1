@@ -1,1 +1,2 @@
-# LYADC-act1
+alumno: Rodrigo Alexis Lin
+Curso: 5 2 avc
